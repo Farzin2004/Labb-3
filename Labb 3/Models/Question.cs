@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace QuizConfigurator.Models
+namespace Labb_3.Models
 {
     internal class Question
     {
